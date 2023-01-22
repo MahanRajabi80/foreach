@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\Mahan\source\repos\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\Mahan\source\repos\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\foreach.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\foreach.Form1.resources
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\foreach.Properties.Resources.resources
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\foreach.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\Mahan\source\repos\foreach\foreach\obj\Debug\@foreach.pdb
